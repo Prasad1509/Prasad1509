@@ -69,7 +69,11 @@ I am a motivated postgraduate student with a strong foundation in Information Te
 **Review Paper:** *A Comparative Study on Cloud Computing and Big Data Analytics*
 **Published In:** International Journal of Advanced Research in Science, Communication and Technology (IJARSTC)
 
----
+![Prasad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pshinde1509&show_icons=true&count_private=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pshinde1509&layout=compact&theme=default)
+![GitHub Streak](https://streak-stats.demolab.com?user=pshinde1509&theme=default)
+
+
 
 ## 📈 GitHub Analytics
 
