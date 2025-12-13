@@ -1,48 +1,89 @@
-👋 Hi, I'm Prasad Shinde
-🎓 BSc IT Student | 💻 Aspiring Developer | 🧠 Tech Enthusiast
-📍 Location: Shindewadi, Ane, Tal-Junnar, Dist-Pune
-📧 Email: prasadshinde150904@gmail.com
-🔗 Links:
-LinkedIn | GitHub Profile
+## 👋 Hi, I'm **Prasad Sakhahari Shinde**
 
-🧑‍💼 About Me
-Hello! I'm Prasad, a passionate BSc IT student with a strong interest in technology and problem-solving.
-Currently building my skills in:
+🎓 **MSc Data Science (First Year)** | **Savitribai Phule Pune University (SPPU)**
+📍 **SCOCS, Belhe, Pune**
+💻 Passionate about **Web Development & Problem Solving**
+🌱 Currently learning **Python, Flask, SQL, and MySQL**
 
-Software & Web Development
+---
 
-Data Analysis
+## 🧠 About Me
 
-Networking
+I am a motivated postgraduate student with a strong foundation in Information Technology and a keen interest in backend development, data analysis, and full-stack web development. I enjoy building real-world applications, exploring open-source communities, and writing clean, maintainable code.
 
-Academic Research
+* 🎓 Currently pursuing **MSc Data Science (First Year)** at **SCOCS, Belhe (SPPU)**
+* ☕ Learning **Python with Flask** for backend development
+* 🌱 Exploring **Full Stack Web Development** using **SQL and modern tools**
+* 💻 Building real-world projects like **Student Attendance Management System**, and **School Management System**
+* 🔍 Actively learning through **open-source communities** (EddieHub, FirstTimersOnly)
+* 🚀 Driven by curiosity, creativity, and a love for clean code
 
-🎓 Education
-Qualification	Year	Percentage	Institute
-BSc IT	2022–2025	FY: 84.80%, SY: 86%	S.B.P College, Junnar
-HSC (12th)	2021–2022	87.17%	H.D. College, Alephata
-SSC (10th)	2019–2020	87.20%	A.V. Palaspur, Tal-Parner
+---
 
-💻 Project
-📘 Student Attendance Management System
+## 🎓 Education
 
-Tech Used: Python (Flask), HTML, CSS, SQLite3
+**MSc Data Science** (First Year)
+*SCOCS, Belhe – Savitribai Phule Pune University (SPPU)*
+2025 – Present
 
-IDE: VS Code
+**BSc Information Technology**
+*S.B.P College, Junnar – SPPU*
+2022 – 2025
+**CGPA:** 9.82
 
-Description: Developed a web-based attendance system with a user-friendly interface and backend support for tracking and analyzing student data.
+**HSC (12th)**
+*H.D. College, Alephata*
+2021 – 2022 | **87.17%**
 
-📑 Research Work
-Review Paper: A Comparative Study on Cloud Computing and Big Data Analytics
-Published In: International Journal of Advanced Research in Science, Communication and Technology (IJARSTC)
+**SSC (10th)**
+*A.V. Palaspur, Tal-Parner*
+2019 – 2020 | **87.20%**
 
-⚙️ Technical Skills
-Programming Languages: Python, Java, R
+---
 
-Libraries: Pandas, NumPy, Matplotlib, Seaborn
+## 💻 Technical Skills
 
-Web Development: HTML, CSS, PHP
+* **Programming Languages:** Python, Java, R
+* **Libraries & Tools:** Pandas, NumPy, Matplotlib, Seaborn
+* **Web Development:** HTML, CSS, JavaScript, PHP
+* **Backend Frameworks:** Flask
+* **Databases:** SQL, MySQL, SQLite3
+* **Tools & IDEs:** VS Code, Eclipse, Anaconda, R Studio, Git, GitHub
 
-Databases: SQL, MySQL
+---
 
-Tools & IDEs: VS Code, Eclipse, Anaconda, R Studio, GitHub
+## 🚀 Highlighted Projects
+
+### 🏫 School Management System
+
+**Tech Stack:** Python (Flask), Angular, MySQL
+**Description:** A web-based application designed to manage students, teachers, courses, attendance, and academic records efficiently.
+
+### 📘 Student Attendance Management System
+
+**Tech Stack:** Python (Flask), HTML, CSS, SQLite3
+**Description:** Developed a web-based attendance system with backend support to track, manage, and analyze student attendance data.
+
+## 📑 Research Work
+
+**Review Paper:** *A Comparative Study on Cloud Computing and Big Data Analytics*
+**Published In:** International Journal of Advanced Research in Science, Communication and Technology (IJARSTC)
+
+---
+
+## 📈 GitHub Analytics
+
+* GitHub Stats
+* Top Languages
+* GitHub Streak
+
+---
+
+## 🔗 Connect with Me
+
+📧 **Email:** [prasadshinde150904@gmail.com](mailto:prasadshinde150904@gmail.com)
+
+💼 **LinkedIn:** Prasad Sakhahari Shinde
+🐙 **GitHub:** GitHub Profile
+
+📍 **Location:** Shindewadi, Ane, Tal-Junnar, Dist-Pune
