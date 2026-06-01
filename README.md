@@ -5,7 +5,7 @@
 💻 Passionate about **Web Development & Problem Solving**
 🌱 Currently learning **Python, Flask, SQL, and MySQL**
 
----
+-----
 
 ## 🧠 About Me
 
@@ -18,7 +18,7 @@ I am a motivated postgraduate student with a strong foundation in Information Te
 * 🔍 Actively learning through **open-source communities** (EddieHub, FirstTimersOnly)
 * 🚀 Driven by curiosity, creativity, and a love for clean code
 
----
+-----
 
 ## 🎓 Education
 
@@ -39,7 +39,7 @@ I am a motivated postgraduate student with a strong foundation in Information Te
 *A.V. Palaspur, Tal-Parner*
 2019 – 2020 | **87.20%**
 
----
+-----
 
 ## 💻 Technical Skills
 
