@@ -78,7 +78,7 @@ I am a motivated postgraduate student with a strong foundation in Information Te
 * Top Languages
 * GitHub Streak
 
----
+-----
 
 ## 🔗 Connect with Me
 
