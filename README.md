@@ -50,7 +50,7 @@ I am a motivated postgraduate student with a strong foundation in Information Te
 * **Databases:** SQL, MySQL, SQLite3
 * **Tools & IDEs:** VS Code, Eclipse, Anaconda, R Studio, Git, GitHub
 
----
+-----
 
 ## 🚀 Highlighted Projects
 
