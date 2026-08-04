@@ -2,7 +2,7 @@
 
 🎓 **MSc Data Science (First Year)** | **Savitribai Phule Pune University (SPPU)**
 📍 **SCOCS, Belhe, Pune**
-💻 Passionate about **Web Development & Problem Solving**
+💻 Passionate about **Web Development & Data Science and Analyasis Using Python**
 🌱 Currently learning **Python, Flask, SQL, and MySQL**
 
 -----
