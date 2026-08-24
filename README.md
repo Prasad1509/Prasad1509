@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm **Prasad Sakhahari Shinde**
 
-🎓 **MSc Data Science (First Year)** | **Savitribai Phule Pune University (SPPU)**
+🎓 **MSc Data Science (Second Year)** | **Savitribai Phule Pune University (SPPU)**
 📍 **SCOCS, Belhe, Pune**
 💻 Passionate about **Web Development & Data Science and Analyasis Using Python**
 🌱 Currently learning **Python, Flask, SQL, and MySQL**
