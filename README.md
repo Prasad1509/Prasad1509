@@ -40,7 +40,6 @@ I am a motivated postgraduate student with a strong foundation in Information Te
 2019 – 2020 | **87.20%**
 
 -----
-
 ## 💻 Technical Skills
 
 * **Programming Languages:** Python, Java, R
