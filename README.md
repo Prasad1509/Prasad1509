@@ -4,7 +4,7 @@
 📍 **SCOCS, Belhe, Pune**
 💻 Passionate about **Web Development & Data Science and Analyasis Using Python**
 🌱 Currently learning **Python, Flask, SQL, and MySQL**
-
+                                      
 -----                             
 
 ## 🧠 About Me
