@@ -7,7 +7,7 @@
                                       
 -----                                                                                                          
 
-## 🧠 About Me
+## 🧠 About Me                                      
 
 I am a motivated postgraduate student with a strong foundation in Information Technology and a keen interest in backend development, data analysis, and full-stack web development. I enjoy building real-world applications, exploring open-source communities, and writing clean, maintainable code.
 
